@@ -53,7 +53,6 @@
 
 ---
 <img src="https://raw.githubusercontent.com/Rafaelafpm/Rafaelafpm/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
