@@ -8,8 +8,15 @@
 
 ---
 
-## 🐍 Joguinho da cobrinha
-![Snake animation](https://github.com/rafaelafpm/rafaelafpm/blob/output/github-contribution-grid-snake.svg)
+
+## 🚀 Linguagens que eu uso
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</div>
+
 
 ---
 
