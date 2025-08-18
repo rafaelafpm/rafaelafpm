@@ -36,8 +36,8 @@
   <a href="https://www.instagram.com/rafaelafpm_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https:/ /www.linkedin.com/in/SEU-LINKEDIN">
+  
   </a>
 </p>
 
@@ -45,7 +45,11 @@
 
 ## 🎯 Sobre mim
 - 💻 Apaixonado por tecnologia e programação  
-- ✨ Tentando sempre melhorar e aprender coisas novas  
+- ✨ Tentando sempre melhorar e aprender coisas novas
+  
+
+
+
 
 ---
 <img src="https://raw.githubusercontent.com/Rafaelafpm/Rafaelafpm/output/snake.svg" alt="Snake animation" />
@@ -54,3 +58,7 @@
 
 
 <p align="center">⭐ Se curtir, deixa uma estrelinha nos meus projetos! ⭐</p>
+
+<p align="center">
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Ywd3c0dzR0dDZzODh3a3c2cjFnc2tmZ3N2MmNuYW1xeHl3dGxmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t91F4BxU8cC0FDfvvj/giphy.gif" alt="Gif fofinho" width="300">
+    </p>
