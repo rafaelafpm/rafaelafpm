@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/rafaelafpm_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https:/ /www.linkedin.com/in/SEU-LINKEDIN">
+  <a href="https:/ /www.linkedin.com/in/rafaela-fran%C3%A7a-17a54637b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQG2WcQiVRSStXuKpUnfDFw%3D%3D">
   
   </a>
 </p>
