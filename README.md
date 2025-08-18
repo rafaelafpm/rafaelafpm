@@ -48,5 +48,9 @@
 - ✨ Tentando sempre melhorar e aprender coisas novas  
 
 ---
+<img src="https://raw.githubusercontent.com/Rafaelafpm/Rafaelafpm/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <p align="center">⭐ Se curtir, deixa uma estrelinha nos meus projetos! ⭐</p>
